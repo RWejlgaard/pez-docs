@@ -4,7 +4,7 @@ This repository contains documentation for my homelab setup, which spans numerou
 
 ## Components
 
-The components of my homelab setup are documented in the subfolder "components". Each component has its own markdown file which contains why I've chosen to use it and how I'm using it.
+The components of my homelab setup are documented in the subfolder "components". Each component has its own folder which contains why I've chosen to use it and how I'm using it.
 
 ## Locations
 
