@@ -2,7 +2,7 @@
 
 This location is self-hosted and serves as my secondary location. The main firepower is located in London.
 
-I've set up a stack of servers at my Dad's place to work as an off-site location. These servers are not super powerful but they're excellent for hosting services that require a static IP since my ISP in London likes to charge for that privilege.
+I've set up a stack of servers at my Dad's place to work as an off-site location. These servers are not super powerful but they're excellent for hosting services that doesn't work with Cloudflare tunnels and require a static IP since my ISP in London likes to charge for that privilege.
 
 At this location I have 3 servers setup, A, B and C. A and B are Lenovo "tiny" desktop computers. I really like these boxes. They're very compact at about the size of a lunchbox and power is provided via a normal ThinkPad charging brick. The last server is a Raspberry Pi 4.
 
