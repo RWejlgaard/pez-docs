@@ -2,9 +2,9 @@
 
 This repository contains documentation for my homelab setup, which spans numerous servers around the world.
 
-## Components
+## Principles
 
-The components of my homelab setup are documented in the subfolder "components". Each component has its own folder which contains why I've chosen to use it and how I'm using it.
+My thought process and how different components of my homelab is setup are documented in the subfolder "principles". Each component has its own folder which contains why I've chosen to use it and how I'm using it.
 
 ## Locations
 
