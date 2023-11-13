@@ -18,7 +18,7 @@ The GPU helps a bit with transcoding while streaming but the CPU can easily tran
 
 The storage is directly attached to the motherboard and my three 8 TB drives are striped to maximize the usable storage. I don't really care if I loose a disk, since it's only movies and TV shows anyway. Although, it would suck having to re-download everything.
 
-I use the so-called "*arr" stack. Radarr, Sonarr & Prowlarr for movies, TV shows and trackers respectively.
+I use the so-called `*arr` stack. Radarr, Sonarr & Prowlarr for movies, TV shows and trackers respectively.
 
 For my download client I first went with Deluge which I **not** like. It was slow and sluggish, constantly corrupting downloads and not cleaning up after itself.
 
