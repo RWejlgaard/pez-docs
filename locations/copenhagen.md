@@ -6,6 +6,8 @@ I've set up a stack of servers at my Dad's place to work as an off-site location
 
 At this location I have 3 servers setup, A, B and C. A and B are Lenovo "tiny" desktop computers. I really like these boxes. They're very compact at about the size of a lunchbox and power is provided via a normal ThinkPad charging brick. The last server is a Raspberry Pi 4.
 
+I have some more thoughts about the hostname detailed in my principal page for [hostnames](../principles/hostnames)
+
 ## Networking
 
 There's not much to talk about here. Since it's not my house I'm not really at liberty to install a balls-to-the-wall networking setup. So I'm using the ISP provided router with each of the 3 servers connected directly to the built in switch in the router.
