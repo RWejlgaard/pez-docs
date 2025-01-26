@@ -42,7 +42,7 @@ I was getting fed up having to load up grafana on my devices just to have a quic
 |Memory|64 GB|
 |GPU|Nvidia GTX 980|
 |Boot Storage|500 GB|
-|Extra Storage|32 TB|
+|Extra Storage|96 TB|
 
 ### london-c
 
